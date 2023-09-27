@@ -34,3 +34,6 @@ while (counter < all_divs.length) {
     all_divs[counter].innerHTML = 'hacked'
     counter = counter + 1;
 }
+
+let h_tag = document.getElementById('head')
+console.log(tag)
