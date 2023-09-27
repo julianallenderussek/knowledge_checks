@@ -9,7 +9,6 @@ console.log(first_p_tag)
 
 let third_p_tag = p_tags[2]
 console.log(third_p_tag)
-// third_p_tag.style.backgroundColor = "red"
 
 function changeToRed(element) {
     element.style.backgroundColor = "red"
